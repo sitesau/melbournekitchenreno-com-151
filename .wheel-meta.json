@@ -1,0 +1,19 @@
+{
+  "wheel_id": 356,
+  "structure": "umbrella",
+  "slug": "melbournekitchenreno-com-151",
+  "project": "kitchen-renovation-melbourne-1e8d28abdfbe1ba5f8f5da25404bfe3",
+  "parent_t1_ref": "melbournekitchenreno.com-004",
+  "node_role": "buffer",
+  "money_target": "melbournekitchenreno.com.au",
+  "primary_kw": "kitchen renovation melbourne",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/kitchen-renovation-melbourne-1e8d28abdfbe1ba5f8f5da25404bfe3/",
+  "writeback_nonce": "af505519f54446b3",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/kitchen-renovation-melbourne/",
+      "anchor": "kitchen renovation melbourne",
+      "rel": "follow"
+    }
+  ]
+}
